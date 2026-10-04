@@ -107,8 +107,8 @@ EventEase/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/EventEase.git
-cd EventEase
+git clone https://github.com/Ananya-H689/Event-ease-project-2025-.git
+cd Event-ease-project-2025-/EventEase
 ```
 
 ### 2. Set up the backend
